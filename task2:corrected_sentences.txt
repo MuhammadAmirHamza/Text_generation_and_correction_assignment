@@ -1,0 +1,45 @@
+Sentence \#  1
+_______________
+Incorrect Sentence       :  I think hat twelve thousand pounds
+Corrected Sentence       :  I think at twelve thousand pounds 
+Max Prob                 :  -13.32422
+Time taken to processe   :  0.3123054504394531
+
+
+
+Sentence \#  2
+_______________
+Incorrect Sentence       :  she haf heard them
+Corrected Sentence       :  she had heard them 
+Max Prob                 :  -10.498862999999998
+Time taken to processe   :  0.1638784408569336
+
+
+
+Sentence \#  3
+_______________
+Incorrect Sentence       :  She was ulreedy quit live
+Corrected Sentence       :  She was already quite like 
+Max Prob                 :  -18.13562799566398
+Time taken to processe   :  0.2201242446899414
+
+
+
+Sentence \#  4
+_______________
+Incorrect Sentence       :  John Knightly wasn’t hard at work
+Corrected Sentence       :  John Knightley was hard at work 
+Max Prob                 :  -20.187092250383643
+Time taken to processe   :  0.2668619155883789
+
+
+
+Sentence \#  5
+_______________
+Incorrect Sentence       :  he said nit word by
+Corrected Sentence       :  he said it would be 
+Max Prob                 :  -17.135994995663978
+Time taken to processe   :  0.21351194381713867
+
+
+
